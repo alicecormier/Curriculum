@@ -1,0 +1,52 @@
+
+body {background-color: #A2A2A2;}
+
+h1 { 
+	color:pink; 
+	font-size: 60px; 
+	text-align: center; 
+	border: 5px dotted white; 
+	background-color: grey;}
+
+#image {display: block;margin:0 auto; height :70px; width: 70px;
+padding-bottom: 50px;
+margin-left: 690px;}
+
+h2 {text-align: center;
+	background-color : grey; 
+	font-size: 30px;
+	color:pink;
+	text-decoration: underline; 
+	border: 3px dotted white;
+margin-top:0px; 
+	margin-right:50px; 
+	margin-left: 50px; 
+	margin-bottom: 0px;}
+
+#formation {text-align: center;
+	font-size: 20px; 
+	color: #FED9F9;
+margin-top:0px; 
+	margin-right:50px; 
+	margin-left: 50px; 
+	margin-bottom: 0px;}
+#exppro {font-size: 20px; text-align: center;
+	color: #FED9F9;margin-top:0px; 
+	margin-right:50px; 
+	margin-left: 50px; 
+	margin-bottom: 0px;}
+#comp {font-size: 20px; text-align: center;
+	color: #FED9F9;margin-top:0px; 
+	margin-right:50px; 
+	margin-left: 50px; 
+	margin-bottom: 0px;}
+#activites {font-size: 20px; 
+	color: #FED9F9;margin-top:0px; text-align: center;
+	margin-right:50px; 
+	margin-left: 50px; 
+	margin-bottom: 0px;}
+#links {font-size: 20px; 
+	color: #FED9F9;margin-top:0px; text-align: center;
+	margin-right:50px; 
+	margin-left: 50px; 
+	margin-bottom: 0px;}
