@@ -1,52 +1,63 @@
 
-body {background-color: #A2A2A2;}
+body {background-color: white;}
 
-h1 { 
-	color:pink; 
-	font-size: 60px; 
+h1 { font-family: "Times new roman", serif;
+	color: #40A497; 
+	font-size: 50px; 
 	text-align: center; 
-	border: 5px dotted white; 
-	background-color: grey;}
+	border: 5px dotted #40A497; 
+	background-color: white;}
 
 #image {display: block;margin:0 auto; height :70px; width: 70px;
-padding-bottom: 50px;
-margin-left: 690px;}
+padding-bottom: 0px;
+margin-left: 0px;}
 
-h2 {text-align: center;
-	background-color : grey; 
+h2 {text-align: left;
+	background-color : white; 
 	font-size: 30px;
-	color:pink;
+	color:#40A497;
 	text-decoration: underline; 
-	border: 3px dotted white;
+	border: 3px dotted #40A497;
 margin-top:0px; 
-	margin-right:50px; 
-	margin-left: 50px; 
+	margin-right:1300px; 
+	margin-left: 0px; 
 	margin-bottom: 0px;}
 
-#formation {text-align: center;
-	font-size: 20px; 
-	color: #FED9F9;
+	h3{text-align: left;
+	background-color : white; 
+	font-size: 30px;
+	color:#40A497;
+	text-decoration: underline; 
+	border: 3px dotted #40A497;
 margin-top:0px; 
+	margin-right:0px; 
+	margin-left: 0px; 
+	margin-bottom: 0px;}
+
+#formation {text-align: left;
+	font-size: 20px; 
+	color: #0D6156;
+margin-top:0px; 
+	margin-right:0px; 
+	margin-left: 50px; 
+	margin-bottom: 0px;}
+#exppro {font-size: 20px; text-align: left;
+	color:#0D6156;margin-top:0px; 
 	margin-right:50px; 
 	margin-left: 50px; 
 	margin-bottom: 0px;}
-#exppro {font-size: 20px; text-align: center;
-	color: #FED9F9;margin-top:0px; 
-	margin-right:50px; 
-	margin-left: 50px; 
-	margin-bottom: 0px;}
-#comp {font-size: 20px; text-align: center;
-	color: #FED9F9;margin-top:0px; 
+#comp {font-size: 20px; text-align: left;
+	color:#0D6156 ;margin-top:0px; 
 	margin-right:50px; 
 	margin-left: 50px; 
 	margin-bottom: 0px;}
 #activites {font-size: 20px; 
-	color: #FED9F9;margin-top:0px; text-align: center;
+	color:#0D6156;margin-top:0px; text-align: left;
 	margin-right:50px; 
 	margin-left: 50px; 
 	margin-bottom: 0px;}
 #links {font-size: 20px; 
-	color: #FED9F9;margin-top:0px; text-align: center;
+	color:#0D6156 ;margin-top:0px; text-align: left;
 	margin-right:50px; 
 	margin-left: 50px; 
 	margin-bottom: 0px;}
